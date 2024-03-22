@@ -21,7 +21,7 @@ def print_minefield(field):
         print(' '.join(row))
 
 
-# 예시 입력
+
 example_field = [
     [1, 0, 1, 1],
     [0, 0, 0, 0],
